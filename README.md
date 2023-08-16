@@ -1,2 +1,2 @@
 # WebDev_LIU
-Web Development Projects done in the Lebanese International University.
+Web Development Tribute Page Project done in the Lebanese International University.
